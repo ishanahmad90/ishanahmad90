@@ -102,6 +102,12 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+   &emsp;
+    <a href="#"><img alt="PowerShell"
+    src="https://img.shields.io/badge/PowerShell-%235391fe"></a>
+  &emsp;
+    <a href="#"><img alt="Windows Terminal"
+    src="https://img.shields.io/badge/windows%20terminal-%234d4d4d"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
