@@ -19,16 +19,16 @@
 
 <br><br>
 
-- :school: I am a `final Year ` Student at [University of Technology Jaipur](https://www.universityoftechnology.edu.in/). 
-- 👨‍🎓 Pursuing master's degree in Computer Science and Engineering
-- 👨‍💻  I am a Flutter Developer with knowledge of Dart Programming, and MySQL DataBase system and love to code as a solution for every `Problem`.
-- :student: I’m currently learning `Native Mobile Applications` and various `Native frameworks` .
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, For [Contact](mailto:ishankhn7860@gmail.com).
+- :school: I am a `First Year MCA`  Student at [University of Technology Jaipur](https://www.universityoftechnology.edu.in/). 
+- 👨‍🎓 Pursuing a Master's degree in Computer Applications.
+- 👨‍💻  Flutter Developer with expertise in Dart and MySQL, passionate about building efficient and scalable applications.
+- :student: Currently exploring `cross-platform mobile development` and various `hybrid frameworks` .
+- :nerd_face: Always `learning, experimenting, and pushing` the boundaries of technology.
+- :thinking: I’m currently open for a new `job opportunity`, [let’s connect!](mailto:ishankhn7860@gmail.com).
 
 <br>
 
-	
+
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
