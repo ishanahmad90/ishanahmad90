@@ -126,8 +126,8 @@
 
 ----
 	
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ishanahmad90?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanahmad90&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+[!ishanahmad90's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishanahmad90&theme=github)](https://github.com/ishanahmad90/github-readme-activity-graph)
+
  
 </details>
 
