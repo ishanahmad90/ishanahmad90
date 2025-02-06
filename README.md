@@ -109,8 +109,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanahmad90&theme=tokyonight_duo" alt="ishanahmad90
-" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanahmad90&theme=tokyonight_duo" alt="ishanahmad90" /></p>
 
 </details>
   
