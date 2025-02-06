@@ -118,22 +118,16 @@
 
 ----
 	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ishanahmad90&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishanahmad90&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="UY24" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ishanahmad90?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanahmad90&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
 	
-[!ishanahmad90's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishanahmad90&theme=github)](https://github.com/ishanahmad90/github-readme-activity-graph)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ishanahmad90?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanahmad90&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
  
 </details>
 
