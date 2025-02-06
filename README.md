@@ -105,11 +105,14 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
+
+
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanahmad90&theme=tokyonight_duo" alt="ishanahmad90" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishanahmad90&theme=tokyonight_duo" alt="ishanahmad90
+" /></p>
 
 </details>
   
