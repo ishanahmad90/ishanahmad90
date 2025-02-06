@@ -121,13 +121,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishanahmad90&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 </details>
 <!-- Recent GitHub Activity -->
-<!-- <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<!-- <details><summary><h3>⚡ Recent GitHub Activity</h3></summary> -->
 
-----
+
 	
-[!ishanahmad90's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishanahmad90&theme=github)](https://github.com/ishanahmad90/github-readme-activity-graph)
+<!-- [!ishanahmad90's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ishanahmad90&theme=github)](https://github.com/ishanahmad90/github-readme-activity-graph) -->
 
-</details> -->
+<!-- </details>  -->
 
 
 <!-- <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
