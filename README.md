@@ -22,9 +22,9 @@
 - :school: I am a `First Year MCA`  Student at [University of Technology Jaipur](https://www.universityoftechnology.edu.in/). 
 - 👨‍🎓 Pursuing a Master's degree in Computer Applications.
 - 👨‍💻  Flutter Developer with expertise in Dart and MySQL, passionate about building efficient and scalable applications.
-- :student: Currently exploring `cross-platform mobile development` and various `hybrid frameworks` .
-- :nerd_face: Always `learning, experimenting, and pushing` the boundaries of technology.
-- :thinking: I’m currently open for a new `job opportunity`, [let’s connect!](mailto:ishankhn7860@gmail.com).
+- :student: Currently exploring `Cross-Platform Mobile Development` and various `Hybrid Frameworks` .
+- :nerd_face: Always `Learning, Experimenting, and Pushing` the boundaries of technology.
+- :thinking: I’m currently open for a new `Job Opportunity`, [Let’s Connect!](mailto:ishankhn7860@gmail.com).
 
 <br>
 
